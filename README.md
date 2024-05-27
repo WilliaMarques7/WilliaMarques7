@@ -1,7 +1,8 @@
 ### <h1>Olá, você 👋</h1>
 
-<p>- 💻 Atualmente trabalho como programador .net na Compasso UOL; </p>
+<p>- 💻 Atualmente trabalho como programador backend .NET na Compasso.UOL; </p>
 <p>- 👨‍🎓 Sistemas de Informação 2018 - 2021 </p>
+<p>- 👨‍🎓 Pós-graduação - Software Architecture 2024 </p>
  
 <div> 
   <a href="https://www.linkedin.com/in/williamarques/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
